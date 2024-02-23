@@ -1,5 +1,5 @@
-# EC-770-PS1
-Problem set 1 Econ 770 - Empirical IO
+# EC-777-PS1
+Problem set 1 Econ 777 - Empirical IO
 
 The ACA health insurance exchanges were established in every U.S. state in 2014 with the primary aims
 of (1) reducing the number of people without health insurance in the U.S. and (2) making health in-
